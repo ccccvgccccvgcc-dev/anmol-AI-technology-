@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Forge",
+  "description": "A user-friendly, text-to-image website powered by Google's Nano Banana and Imagen AI models. Users can input text descriptions to generate high-quality images with various customization options.",
+  "requestFramePermissions": []
+}
